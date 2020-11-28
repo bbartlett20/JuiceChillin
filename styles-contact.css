@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<meta charset=”UTF-8”>
+
+<title> Juice Chillin </title>
+
+<link rel=”stylesheet” type=”text/css” href=”styles-contact.css”>
+
+...
+html, body {
+height: 100%;
+width: 100%;
+padding: 0;
+margin: 0;
+    background-image: url("images/palmtrees.jpg")
+    background-size: cover;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center
+
+h1 {
+ 
+    font-family: gastromond, sans-serif;
+    font-style: normal;
+    font-weight: 400
+    font-size: 2em;
+    margin: 0px auto 10px auto;
+         color: #b8806b;
+    }
+    h2 {
+
+    font-family: ‘gastromond’, sans-serif;
+    font-style: normal;
+    font-weight: 400
+    font-size: 1.5em;
+    line-height: 1.4;
+         color: #b8806b;
+    padding: 0px 0px;
+    margin: 0px auto 25px auto;
+    }
+    p {
+
+    font-family: ‘gastromond’, sans-serif;
+    font-style: normal;
+    font-weight: 400
+    font-size: 1.2em;
+    line-height: 1.6;
+         color: #b8806b;
+    }
+
+nav{
+    font-family: ‘gastromond’, sans-serif;
+    font-style: normal;
+    font-weight: 400
+    font-size: 1.2em;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.6;
+         color: #b8806b;
+}
+
+nav li{
+    display: inline; 
+}
+
+a{
+    color: #b8806b;
+    text-decoration: none; 
+    font-weight: bold;
+    }
+
+    a:hover{
+    color: black;
+    background: black; /
+
+</head>
+<body>
